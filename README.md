@@ -1,10 +1,15 @@
 # The Red Badger Websites Guide
 
+### Source
+
+Github repository [https://github.com/redbadger/websites-guide](https://github.com/redbadger/websites-guide)
+
+Everything is hosted, and all changes are automatically deployed to [http://webdocs.red-badger.com/](http://webdocs.red-badger.com/)
 
 ###Introduction
 Hi there!
 
-This book serves as a guide to the sometimes confusing world of Prismic, Cloudinary,  Website Next and React.London.
+This book serves as a guide to the sometimes confusing world of Prismic, Cloudinary, Website and React.London.
 
 [Prismic](https://prismic.io/) is our backend/database for Website Next and React.London (see below). For the non-techies among you, Prismic is used to input information that we would like to display on our websites. This information includes news items, events, employees, blog posts etc.
 
