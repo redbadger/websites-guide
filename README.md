@@ -1,5 +1,29 @@
 # The Red Badger Websites Guide
 
+                    .oys:
+                  .:dmmmmmmmddhyo+:.
+               -oddy+:-.`` ``..:/ohmdy+-
+             -hmmyosyyhhhhyyso+:.   -+ymd+`
+        :ydmmmmmmmmmmmmmmmmmmmmmmds`  -hmmd.
+       +mmmmmmmmmmmmmmmmmdhyso++/:.   smmmd.
+       ymmmmmmmmmdyo/:.`           `:odmy/
+       -dmmmmh+-`             `-/ohmds:`
+         hms.          `-/oshdmmmmmms
+        -mh        ./shmmmmmmmmmmmmmm+
+        sm:     .ohmmmmmmmmmmmmmmmmmmm:
+        hd`   :ymmmmmmmmmmmmmmmmmmmmmmm:
+       `dh  .ymmmmmmmmmmmmmmmmmmmmmmmmmmo`
+       `dh :mmmmmmmmmmmmmmmmmmmmmmmmmmmmmms:`
+        hmsmmmmmmmmmmmmmmmmmmmmmmmmmmmmmhss+.
+        ommmmmmmmmmmmmmmmmmmmmmmmmmmmmmd`
+        .mmmmmmmmmmmmmmmmmmmmmmmmmmmmmm/
+         ommmmmmmmmmmmmmmmmmmmmmmmmmmm/
+         `ymmmmmmmmmmmmmmmmmmmmmmmmmy.
+          `ymmmmmmmmmmmmmmmmmmmmmmmy
+            +mmmmmmmmm/::mmmmmmmmms`
+             .smmmmmmm- .mmmmmmmd:
+               `/osyys. `oyyyso-
+
 ### Source
 
 Github repository [https://github.com/redbadger/websites-guide](https://github.com/redbadger/websites-guide)
