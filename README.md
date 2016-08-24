@@ -23,6 +23,6 @@ This book serves as a guide to the sometimes confusing world of Prismic, Cloudin
 
 ###Getting Started
 
-To get started, you need to get access to both Prismic and Cloudinary. Message any of the members on the #badgerlabs team and they should be able to assist you.
+To get started, you need to get access to both Prismic and Cloudinary. Message any of the members on the #badger-labs team and they should be able to assist you.
 
-Each of the tasks you may wish to do are listed as chapters. Don't hesitate to contact any of the #badgerlabs team for assistance! If you find any of the steps confusing, please let us know so we can make this documentation easier to follow!
+Each of the tasks you may wish to do are listed as chapters. Don't hesitate to contact any of the #badger-labs team for assistance! If you find any of the steps confusing, please let us know so we can make this documentation easier to follow!
