@@ -1,0 +1,6 @@
+deployment:
+  prod:
+    branch: master
+    commands:
+      - npm i && gitbook build
+      - aws s3 sync _book/ s3://webdocs.red-badger.com/ --delete
