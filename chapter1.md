@@ -14,7 +14,7 @@ When you first login, you are confronted with a really busy dashboard page. On t
 
 ![](assets/cloudinary-media-library.png)
 
-####Uploading an Image
+####Step 3: Uploading an Image
 
 In the screenshot above there is a widget which allows you to 'Drop files here'. Drag the image you wish to upload into this box and you should see the following:
 
@@ -32,7 +32,7 @@ You will then be shown all the images of that particular type. In this screensho
 ![](assets/cloudinary-img-list.png)
 Now simply drag your image into the 'Drop files here' box and they will automatically be sorted into the events folder. The process is the same for the speaker images.
 
-####Getting image links for Prismic:
+####Step 4: Getting image links for Prismic:
 
 The final step in this process is to get the image links for Prismic. To do so, go back to the Media Library and locate the image you wish to get the link for. Then simply right click it, and select 'Copy Image Address' as follows:
 
