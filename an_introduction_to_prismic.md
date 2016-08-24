@@ -9,7 +9,7 @@ To access Prismic, contact any of the #badgerlabs developers for the username an
 
 Once logged in, you will see the following screen:
 
-![](Screen Shot 2016-08-10 at 16.35.40.png)
+![](assets/prismic-dashboard.png)
 
 We have two repositories on Prismic: Staging and Production. The data on Staging is displayed on the following websites:
 

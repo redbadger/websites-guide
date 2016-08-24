@@ -12,28 +12,28 @@ To upload an image to Cloudinary, you first need to gain access. Ask any of the 
 
 When you first login, you are confronted with a really busy dashboard page. On the left hand side click Media Library and you should be shown all our current image uploads as follows:
 
-![](Screen Shot 2016-08-09 at 22.47.25.png)
+![](assets/cloudinary-media-library.png)
 
 ####Uploading an Image
 
 In the screenshot above there is a widget which allows you to 'Drop files here'. Drag the image you wish to upload into this box and you should see the following:
 
-![](Screen Shot 2016-08-09 at 22.53.13.png)
+![](assets/cloudinary-upload-img.png)
 
 This will upload your image into the general folder. This is not however what we always want to do as we have organised our images on Cloudinary into 'speakers' and 'events'. It is easier to manage these images if they are sorted correctly, so we need to upload our images into the correct place.
 
 To do so, click 'Select Folder' on the Media Library page:
-![](Screen Shot 2016-08-09 at 22.58.23.png)
+![](assets/cloudinary-select-folder.png)
 and then select the image type:
-![](Screen Shot 2016-08-09 at 22.58.31.png)
+![](assets/cloudinary-list-folders.png)
 
 You will then be shown all the images of that particular type. In this screenshot, I am showing the event images:
 
-![](Screen Shot 2016-08-09 at 23.00.31.png)
+![](assets/cloudinary-img-list.png)
 Now simply drag your image into the 'Drop files here' box and they will automatically be sorted into the events folder. The process is the same for the speaker images.
 
 ####Getting image links for Prismic:
 
 The final step in this process is to get the image links for Prismic. To do so, go back to the Media Library and locate the image you wish to get the link for. Then simply right click it, and select 'Copy Image Address' as follows:
 
-![](Screen Shot 2016-08-09 at 23.03.18.png)
+![](assets/copy-img-address.png)

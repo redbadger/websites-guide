@@ -1,0 +1,22 @@
+{
+  "name": "websites-guide",
+  "version": "1.0.0",
+  "description": "Documentation for Red Badger sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redbadger/websites-guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redbadger/websites-guide/issues"
+  },
+  "homepage": "https://github.com/redbadger/websites-guide#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.0"
+  }
+}
