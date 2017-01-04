@@ -55,6 +55,6 @@ Once you click, all community events will reveal additional details.
 
 Each item contains link to the event document (also created on Prismic), and Display Level option. Display Level can be set to Featured, Highlighted or Regular.
 
-In order to set event as the main upcoming event, its Display Level must be set to Featured. Note that only 1 event at a time can be featured.
+In order to set event as the main upcoming event, its Display Level must be set to Featured. Multiple events can be set as featured.
 
 In order for event to be listed as one of the 3 upcoming events on React.London site, set its Display Level to Highlighted. Only 3 first events with Display Level set to Highlighted will be displayed on the site.
