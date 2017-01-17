@@ -23,7 +23,7 @@ This will present you with a new Badger form.
 1. Name of the Badger.
 2. The order of the Badger on the `Meet our team` page. Order numbers 1 - 4 should be given to David Wynne, Cain Ullah, Stuart Harris and Milo Castro respectively. The order number can be left blank for the other badgers.
 3. The job title of the Badger.
-4. The url of the picture to be displayed on the page. The url must be the full url and start with 'https://'. Please refer to [Uploading images to Cloudinary guide](/chapter1.md).
+4. The url of the picture to be displayed on the page. The url must be the full url and start with `https://`. Please refer to [Uploading images to Cloudinary guide](/chapter1.md).
 5. The date the Badger started at Red Badger.
 6. A summary of the Badger.
 7. The signature skills of the Badger. Click the 'Add another' button to add a skill (only the top 3 will appear on the `Meet our team` page).
