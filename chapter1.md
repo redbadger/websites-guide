@@ -34,6 +34,6 @@ Now simply drag your image into the 'Drop files here' box and they will automati
 
 ####Step 4: Getting image links for Prismic:
 
-The final step in this process is to get the image links for Prismic. To do so, go back to the Media Library and locate the image you wish to get the link for. Then simply right click it, and select 'Copy Image Address' as follows:
+The final step in this process is to get the image links for Prismic. To do so, go back to the Media Library and click the image you wish to get the link for. Then right click the preview image on the right, and select 'Copy Image Address' as shown below (don't right click the image at the top of the page because that's just a thumbnail).
 
 ![](assets/copy-img-address.png)
