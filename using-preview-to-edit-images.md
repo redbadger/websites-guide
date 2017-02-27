@@ -76,12 +76,13 @@ There are no options to adjust for png’s. Use the image sizes above ☝️️ 
 
 _Voila_ 👏 .
 
-## Templates available:
+## What to do next ⏩
+See the Cloudinary how-to to learn how to get your image online 📡.
+
+
+## Templates available
 These are sized for retina screens so may seems larger than you expect 😲 . They can be found on Cloudinary:
 
 1. [Events page images](https://res.cloudinary.com/red-badger-assets/image/upload/v1488208747/events_template_uayetk.jpg)
 
 2. [Meetup pages speaker images](https://res.cloudinary.com/red-badger-assets/image/upload/v1488208747/meetup_speakers_template_dpvm0s.jpg)
-
-## What to do next ⏩
-See the Cloudinary how-to to learn how to get your image online 📡.
