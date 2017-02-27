@@ -1,4 +1,6 @@
-What we’ll do
+# Using Preview to edit images
+
+## What we’ll do
 Make an image 🖼️ the correct size ✂️️ for a website, using:
 
 An Image we want to use online:
@@ -10,7 +12,7 @@ A Template image (the correct size for a certain page or part of a page):
 Some software (Preview):
 [image]
 
-How to do it
+## How to do it
 Double click the template to open it in Preview [image]
 
 Double click your chosen image to open it in Preview [image].
@@ -55,14 +57,14 @@ Format:
 [JPEG]
 Quality: Should ideally be about 75%, no less than 50%
 File Size: Should be as small as possible whilst maintaining a good quality. 
-Under 100KB = 👍👍 👍
-100KB - 200KB = 👍👍
-200KB - 1MB = 👍
-Over 1MB = 👎🚨
+ Under 100KB = 👍👍 👍
+ 100KB - 200KB = 👍👍
+ 200KB - 1MB = 👍
+ Over 1MB = 👎🚨
 
-1000 Bytes (B) = 1 Kilobyte (KB)
-1000KB = 1 Megabyte (MB)
-1000MB = 1 Gigabyte (GB)
+_1000 Bytes (B) = 1 Kilobyte (KB)_
+_1000KB = 1 Megabyte (MB)_
+_1000MB = 1 Gigabyte (GB)_
 [image]
 
 [PNG]
@@ -72,16 +74,16 @@ There are no options to adjust for png’s. Use the image sizes above ☝️️ 
 [Save]
 [image]
 
-Voila 👏 .
+_Voila_ 👏 .
 
-Templates available:
+## Templates available:
 These are sized for retina screens so may seems larger than you expect 😲 . They can be found on Cloudinary:
 
-1. Events page [link]
+1. [Events page images](https://res.cloudinary.com/red-badger-assets/image/upload/v1488208747/events_template_uayetk.jpg)
 [image]
 
-2. Meetup pages [link]
+2. [Meetup pages speaker images](https://res.cloudinary.com/red-badger-assets/image/upload/v1488208747/meetup_speakers_template_dpvm0s.jpg)
 [image]
 
-What to do next ⏩
+## What to do next ⏩
 See the Cloudinary how-to to learn how to get your image online 📡.
