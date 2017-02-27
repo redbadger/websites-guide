@@ -1,4 +1,4 @@
-# Using Preview to edit images
+# 🖼️ ✂️️ Using Preview to edit images
 
 ## What we’ll do
 Make an image 🖼️ the correct size ✂️️ for a website, using:
