@@ -10,7 +10,7 @@ A Template image (the correct size for a certain page or part of a page):<br>
 ![Black rectangle template](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-14.png "Black rectangle template")
 
 Some software (Preview):<br>
-[image]
+![Logo for Preview software](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-05.jpg "Logo for Preview software")
 
 ## How to do it
 Double click the template to open it in Preview [image]
