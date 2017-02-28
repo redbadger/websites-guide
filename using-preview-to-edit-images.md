@@ -4,7 +4,7 @@
 Make an image 🖼️ the correct size ✂️️ for a website, using:
 
 An Image we want to use online:<br>
-[image]
+!(
 
 A Template image (the correct size for a certain page or part of a page):<br>
 [image]
