@@ -25,7 +25,7 @@ Click into the template<br>
 Now your image is inside the template in Preview [image]. The image is probably too big 🎪 for the template so we need to shrink it and position it.
 
 Left-click and pull [image] the image within the template until you can see the blue dot on the top right corner.<br>
-[image]
+![Template image being edited](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-12.jpg "Template image being edited")
 
 Left-click and drag [image] the blue dot on the corner to the bottom left. This will shrink your image.<br>
 [image]
