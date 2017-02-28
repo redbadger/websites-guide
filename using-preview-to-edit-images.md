@@ -7,7 +7,7 @@ An Image we want to use online:<br>
 ![Group of Red Badger emloyees in Krakow at night](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-03.png "Group of Red Badger emloyees in Krakow at night")
 
 A Template image (the correct size for a certain page or part of a page):<br>
-[image]
+![Black rectangle template](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-14.png "Black rectangle template")
 
 Some software (Preview):<br>
 [image]
