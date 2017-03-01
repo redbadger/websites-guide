@@ -28,11 +28,11 @@ Left-click and pull [image] the image within the template until you can see the 
 ![Template image being edited](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-12.jpg "Template image being edited")
 
 Left-click and drag [image] the blue dot on the corner to the bottom left. This will shrink your image.<br>
-[image]
+![Template image being edited](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-01.jpg "Template image being edited")
 
 Then left-click on the actual image and pull [image] it back into the visible part of the template.<br>
-[image]<br>
-[image]
+![Template image being edited](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-15.jpg "Template image being edited")<br>
+![Template image being edited](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-16.jpg "Template image being edited")
 
 Repeat: Left-click and drag [image] the blue dot on the corner to the bottom left. This will shrink your image.
 Then left-click on the actual image and pull [image] it back into the visible part of the template.
@@ -40,15 +40,15 @@ Then left-click on the actual image and pull [image] it back into the visible pa
 Until your image is the desired size. 
 
 Now position [image] your image to your chosen composition.<br>
-[image]
+![Final template-size image of Red Badger emloyees in Krakow at night](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-04.jpg "Final template-size image of Red Badger emloyees in Krakow at night")
 
 Save 💾 your file:<br>
 File > Export<br>
-[image]
+![Preview's File menu with Export highlighted](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-13.png "Preview's File menu with Export highlighted")
 
 Export As: [Name your file]<br>
 Where: [Choose a destination folder]<br>
-[image]
+![Preview's Export dialog box with Export As: and Where: highlighted](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-09.jpg "Preview's Export dialog box with Export As: and Where: highlighted")
 
 Format: <br>
 [JPEG] for photos<br>
@@ -65,7 +65,7 @@ Over 1MB = 👎🚨
 _1000 Bytes (B) = 1 Kilobyte (KB)_<br>
 _1000KB = 1 Megabyte (MB)_<br>
 _1000MB = 1 Gigabyte (GB)_<br>
-[image]
+![Preview's Export dialog box with Format:, Quality: and File size: highlighted](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-09.jpg "Preview's Export dialog box with Format:, Quality: and File size: highlighted")
 
 [PNG]<br>
 There are no options to adjust for png’s. Use the image sizes above ☝️️ as a guide.<br>
