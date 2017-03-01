@@ -34,7 +34,7 @@ Then left-click on the actual image and pull ![Hand icon to illustrate pulling](
 ![Template image being edited](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-15.jpg "Template image being edited")<br><br>
 ![Template image being edited](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-16.jpg "Template image being edited")
 
-Repeat ![Circular arrows repeat icon](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-17a.png "Circular arrows repeat icon") : Left-click and drag [image] the blue dot on the corner to the bottom left. This will shrink your image.
+Repeat ![Circular arrows repeat icon](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-17a.png "Circular arrows repeat icon") : Left-click and drag ![Diagonal arrow icon to illustrate dragging](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-11a.png "Diagonal arrow icon to illustrate dragging") the blue dot on the corner to the bottom left. This will shrink your image.
 Then left-click on the actual image and pull ![Hand icon to illustrate pulling](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-00a.png "Hand icon to illustrate pulling") it back into the visible part of the template.
 
 Until your image is the desired size. 
