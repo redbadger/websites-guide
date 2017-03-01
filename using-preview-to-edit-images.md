@@ -13,7 +13,7 @@ Some software (Preview):<br>
 ![Logo for Preview software](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-05.jpg "Logo for Preview software")
 
 ## How to do it
-Double click the template to open it in Preview ![Logo for Preview software](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-05a.png "Logo for Preview software")
+Double click the template to open it in Preview ![Logo for Preview software](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-05a.png "Logo for Preview software").
 
 Double click your chosen image to open it in Preview ![Logo for Preview software](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-05a.png "Logo for Preview software").<br>
 ⌘ A (Select all)<br>
@@ -22,9 +22,9 @@ Double click your chosen image to open it in Preview ![Logo for Preview software
 Click into the template<br>
 ⌘ V (Paste)
 
-Now your image is inside the template in Preview [image]. The image is probably too big 🎪 for the template so we need to shrink it and position it.
+Now your image is inside the template in Preview ![Logo for Preview software](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-05a.png "Logo for Preview software"). The image is probably too big 🎪 for the template so we need to shrink it and position it.
 
-Left-click and pull [image] the image within the template until you can see the blue dot on the top right corner.<br>
+Left-click and pull ![Hand icon to illustrate pulling](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-00a.png "Hand icon to illustrate pulling") the image within the template until you can see the blue dot on the top right corner.<br>
 ![Template image being edited](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-12.jpg "Template image being edited")
 
 Left-click and drag [image] the blue dot on the corner to the bottom left. This will shrink your image.<br>
