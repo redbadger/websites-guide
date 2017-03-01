@@ -31,7 +31,7 @@ Left-click and drag [image] the blue dot on the corner to the bottom left. This 
 ![Template image being edited](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-01.jpg "Template image being edited")
 
 Then left-click on the actual image and pull [image] it back into the visible part of the template.<br>
-![Template image being edited](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-15.jpg "Template image being edited")<br>
+![Template image being edited](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-15.jpg "Template image being edited")<br><br>
 ![Template image being edited](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-16.jpg "Template image being edited")
 
 Repeat: Left-click and drag [image] the blue dot on the corner to the bottom left. This will shrink your image.
@@ -65,14 +65,14 @@ Over 1MB = 👎🚨
 _1000 Bytes (B) = 1 Kilobyte (KB)_<br>
 _1000KB = 1 Megabyte (MB)_<br>
 _1000MB = 1 Gigabyte (GB)_<br>
-![Preview's Export dialog box with Format:, Quality: and File size: highlighted](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-09.jpg "Preview's Export dialog box with Format:, Quality: and File size: highlighted")
+![Preview's Export dialog box with Format: JPEG, Quality: 80% and File size: 49KB highlighted](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-09.jpg "Preview's Export dialog box with Format: JPEG, Quality: 80% and File size: 49KB highlighted")
 
 [PNG]<br>
 There are no options to adjust for png’s. Use the image sizes above ☝️️ as a guide.<br>
-[image]
+![Preview's Export dialog box with Format: PNG and File size: 206KB highlighted](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-10.jpg "Preview's Export dialog box with Format: PNG and File size: 206KB highlighted")
 
 [Save]<br>
-[image]
+![Preview's Export dialog box with Save button highlighted](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-06.jpg "Preview's Export dialog box with Save button highlighted")
 
 _Voila_ 👏 .
 
@@ -81,8 +81,10 @@ See the Cloudinary how-to to learn how to get your image online 📡.
 
 
 ## Templates available
-These are sized for retina screens so may seems larger than you expect 😲 . They can be found on Cloudinary:
+These are sized for retina screens so may seems larger than you expect 😲 . They can be left-clicked and dragged to your desktop directly from this page:
 
-1. [Events page images](https://res.cloudinary.com/red-badger-assets/image/upload/v1488208747/events_template_uayetk.jpg)
+1. Events page images <br>
+![Events page images template](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-07.jpg "Meetup pages Speaker's template")
 
-2. [Meetup pages speaker images](https://res.cloudinary.com/red-badger-assets/image/upload/v1488208747/meetup_speakers_template_dpvm0s.jpg)
+2. Meetup pages Speaker images <br>
+![Meetup pages Speakers template](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-08.jpg "Meetup pages Speaker's template")
