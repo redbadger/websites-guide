@@ -13,9 +13,9 @@ Some software (Preview):<br>
 ![Logo for Preview software](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-05.jpg "Logo for Preview software")
 
 ## How to do it
-Double click the template to open it in Preview [image]
+Double click the template to open it in Preview ![Logo for Preview software](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-05a.png "Logo for Preview software")
 
-Double click your chosen image to open it in Preview [image].<br>
+Double click your chosen image to open it in Preview ![Logo for Preview software](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-05a.png "Logo for Preview software").<br>
 ⌘ A (Select all)<br>
 ⌘ C (Copy)
 
