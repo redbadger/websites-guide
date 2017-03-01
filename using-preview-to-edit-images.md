@@ -34,7 +34,7 @@ Then left-click on the actual image and pull [image] it back into the visible pa
 ![Template image being edited](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-15.jpg "Template image being edited")<br><br>
 ![Template image being edited](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-16.jpg "Template image being edited")
 
-Repeat: Left-click and drag [image] the blue dot on the corner to the bottom left. This will shrink your image.
+Repeat![Repeat icon](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-17.png "Repeat icon"): Left-click and drag [image] the blue dot on the corner to the bottom left. This will shrink your image.
 Then left-click on the actual image and pull [image] it back into the visible part of the template.
 
 Until your image is the desired size. 
