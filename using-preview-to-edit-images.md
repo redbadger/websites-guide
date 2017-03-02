@@ -77,14 +77,18 @@ There are no options to adjust for png’s. Use the image sizes above ☝️️ 
 _Voila_ 👏 .
 
 ## What to do next ⏩
-See the Cloudinary how-to to learn how to get your image online 📡.
+See the [Cloudinary how-to](/chapter1.md) to learn how to get your image online 📡.
 
 
 ## Templates available
 These are sized for retina screens so may seems larger than you expect 😲 . They can be left-clicked and dragged to your desktop directly from this page:
 
-1. Events page images <br>
+1. Events page images (432px x 243px)<br>
+<kbd>
 ![Events page images template](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-07.jpg "Meetup pages Speaker's template")
+</kbd>
 
-2. Meetup pages Speaker images <br>
+2. Meetup pages Speaker images (227px x 227px) <br>
+<kbd>
 ![Meetup pages Speakers template](https://github.com/redbadger/websites-guide/blob/images/assets/edit-image-08.jpg "Meetup pages Speaker's template")
+</kbd>
