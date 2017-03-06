@@ -6,3 +6,4 @@
 * [Posting news](posting-news.md)
 * [Posting events](posting-events.md)
 * [Updating badgers](updating-badgers.md)
+* [Using Preview to edit images] (using-preview-to-edit-images.md)
