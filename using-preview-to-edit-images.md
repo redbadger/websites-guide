@@ -7,7 +7,9 @@ An Image we want to use online:<br>
 ![Group of Red Badger emloyees in Krakow at night](assets/edit-image-03.png "Group of Red Badger emloyees in Krakow at night")
 
 A Template image (the correct size for a certain page or part of a page):<br>
-![Black rectangle template](assets/edit-image-14.png "Black rectangle template")
+<kbd>
+![White rectangle template](assets/edit-image-07.jpg "White rectangle template")
+</kbd>
 
 Some software (Preview):<br>
 ![Logo for Preview software](assets/edit-image-05.jpg "Logo for Preview software")
@@ -85,7 +87,7 @@ These are sized for retina screens so may seems larger than you expect 😲 . Th
 
 1. Events page images (432px x 243px)<br>
 <kbd>
-![Events page images template](assets/edit-image-07.jpg "Meetup pages Speaker's template")
+![Events page images template](assets/edit-image-07.jpg "Events page's template")
 </kbd>
 
 2. Meetup pages Speaker images (227px x 227px) <br>
