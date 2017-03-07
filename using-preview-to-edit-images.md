@@ -85,7 +85,7 @@ These are sized for retina screens so may seems larger than you expect 😲 . Th
 
 1. Events page images (432px x 243px)<br>
 <kbd>
-![Events page images template](assets/edit-image-07.jpg "Meetup pages Speaker's template")
+![Events page images template](assets/edit-image-07.jpg "Events page's template")
 </kbd>
 
 2. Meetup pages Speaker images (227px x 227px) <br>
