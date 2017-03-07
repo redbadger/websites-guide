@@ -28,7 +28,7 @@ To get started, you need to get access to both Prismic and Cloudinary. Message a
 Each of the tasks you may wish to do are listed as chapters. Don't hesitate to contact any of the #badger-labs team for assistance! If you find any of the steps confusing, please let us know so we can make this documentation easier to follow!
 
 ###Testing
-It's a good idea to test your changes locally because your copy might look right on github but not when run through gitbook. To launch gitbook locally, run the following commands and then open http://localhost:4000:
+It's a good idea to test your changes locally because your copy might look right on `github` but not when run through `gitbook`. To launch `gitbook` locally, run the following commands and then open http://localhost:4000.
 ```
 npm install
 npm run build
