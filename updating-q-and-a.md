@@ -28,5 +28,8 @@ Press **New -> Q and A category**
 ![](assets/prismic-create-new-q-and-a-category.png)
 
 This will present you with a new Q and A category form.
+
+![](assets/prismic-q-and-a-category-form.png)
+
 1. The name of the category.
 2. The list of questions and answers. Attach the questions and answers you created above to the category.
