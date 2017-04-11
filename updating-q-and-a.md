@@ -6,10 +6,6 @@ Your new item will become available on the live site as soon as you publish it o
 
 ### Creating a Q and A
 
-Please use **Red-badger.com production** repository
-
-![](assets/prismic-dashboard.png)
-
 Press **New -> Q and A**
 
 ![](assets/prismic-create-new-q-and-a.png)
@@ -23,3 +19,12 @@ You can hyperlink parts of your answer by selecting the text and pressing the li
 ![](assets/prismic-create-new-q-and-a.png)
 
 ### Creating a Q and A Category
+Questions and answers must be attached to categories for them to appear in the UI.
+
+Press **New -> Q and A category**
+
+![](assets/prismic-create-new-q-and-a.png)
+
+This will present you with a new Q and A category form.
+1. The name of the category.
+2. The list of questions and answers. Attach the questions and answers you created above to the category.
