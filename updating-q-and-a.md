@@ -12,9 +12,11 @@ Press **New -> Q and A**
 
 This will present you with a new Q and A form.
 
+![](assets/prismic-q-and-a-form.png)
+
 1. The question, e.g., 'How much will my project cost?'
 2. The answer to the question. You can emphasise parts of your answer by selecting the text and pressing the bold or italics button in the toolbar.
-![](assets/xxx.png)
+![](assets/prismic-q-and-a-emphasis.png)
 You can hyperlink parts of your answer by selecting the text and pressing the link button in the toolbar. Choose the 'Link to the Web...' option from the dropdown and enter the your web address.
 ![](assets/xxx.png)
 
